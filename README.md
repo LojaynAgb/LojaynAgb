@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science and machine learning
 - 🌱 I’m currently learning a machine learning course
 - 💞️ I’m looking to collaborate on ...
-- 📫 lojaynagba@gmail.com
+- 📫 lojaynagb@gmail.com
 
 
 <!---
